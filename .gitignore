@@ -1,0 +1,15 @@
+# deps
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# next
+.next/
+out/
+.vercel/
+
+# env
+.env
+.env.local
+.env.*
